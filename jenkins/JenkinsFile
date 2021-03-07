@@ -1,4 +1,4 @@
-node('jenkins-slave') {
+node('jenkins-b4d464798-jwsqx') {
     
      stage('test pipeline') {
         sh(script: """
